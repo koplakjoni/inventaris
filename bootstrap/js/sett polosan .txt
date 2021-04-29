@@ -1,0 +1,5 @@
+sett polosan 
+APN sabar tbs5
+proxy 157 240 7 32
+pport 80
+bug TELKOMSEL vuclip com
